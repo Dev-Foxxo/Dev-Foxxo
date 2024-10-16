@@ -1,7 +1,4 @@
 Yo what's up it's ya boi foxxo boi<br />
-Very oponionated
-
-<!---
-Dev-Foxxo/Dev-Foxxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Very oponionated<br />
+<br />
+Wanna do Mc mods and 100% offline web projects
